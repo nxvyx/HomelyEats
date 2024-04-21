@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "homelyeats",
+    "slug": "homelyeats",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/HomelyEats_prev_ui.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/HomelyEats_prev_ui.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/HomelyEats_prev_ui.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "package": "com.homely.eats",
+        "googleMaps": {
+          "apikey": "AIzaSyDYGrFh2ElQVn7vg-b3a2mzNAAi81w90wc"
+        }
+      },    
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.FOREGROUND_SERVICE"
+      ],
+      "package": "com.homely.eats"
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+        }
+      ]
+    ]
+  }
+}
