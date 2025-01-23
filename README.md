@@ -1,7 +1,7 @@
 
 # HomelyEats
 
-Welcome to the HomelyEats repository! This app aims to connect home cooks, tiffin services, and lunch box providers with food enthusiasts through a convenient and user-friendly platform.
+Welcome to the HomelyEats repository! This application bridges the gap between home cooks, tiffin services, and lunch box providers with food lovers, offering a seamless and user-friendly platform for discovering and ordering homemade meals.
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ To get started with the app, follow these steps:
 - Material-UI for UI components.
 
 ## Contributing
-
+ Aanchal Mittal - xxxchall-17
 We welcome contributions from the community! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
 
 ## License
