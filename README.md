@@ -27,7 +27,7 @@ To get started with the app, follow these steps:
 - Material-UI for UI components.
 
 ## Contributing
- Aanchal Mittal - xxxchall-17
+Aanchal Mittal - xxxchall-17
 We welcome contributions from the community! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
 
 ## License
